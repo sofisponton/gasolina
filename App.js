@@ -11,7 +11,7 @@ import {
   Keyboard,
   
 } from 'react-native';
-import styles from './globalStyles';
+import styles from './globalStyles.js';
 import { Picker } from '@react-native-picker/picker';
 import fundo from '../gasolina/assets/fundoaba.png'
 
